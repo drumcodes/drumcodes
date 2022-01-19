@@ -1,9 +1,9 @@
-while(alive) {
-  ~be()
-  ~love()
-  ~learn()
-  ~teach()
-  ~move()
-  ~playMusic()
-  ~rest()
+while(alive) {\
+  ~be()\
+  ~love()\
+  ~learn()\
+  ~teach()\
+  ~move()\
+  ~playMusic()\
+  ~rest()\
 }
